@@ -1,0 +1,10 @@
+# ingresa un valor flotante para la variable a aquí
+# ingresa un valor flotante para la variable b aquí
+
+# mostrar el resultado de la suma aquí
+# mostrar el resultado de la resta aquí
+# mostrar el resultado de la multiplicación aquí
+# mostrar el resultado de la división aquí
+
+print("\n¡Eso es todo, amigos!")
+
